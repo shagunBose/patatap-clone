@@ -1,2 +1,2 @@
 # patatap-clone
-Patatap cone using Paper.js
+Patatap cone using Paper.js and Howler.js
